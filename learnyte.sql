@@ -85,8 +85,7 @@ CREATE TABLE `contact_us` (
 
 INSERT INTO `contact_us` (`id`, `name`, `email`, `mobile`, `comment`, `added_on`) VALUES
 (1, 'Lokeshwar Reddy', 'lokeshwarreddy629@gmail.com', '9398539948', 'Developer', '2020-01-14 00:00:00'),
-(2, 'Nagarjun A', 'nagarjun2001avala1999@gmail.com', '8374017459', 'Developer', '2020-01-19 07:59:38'),
-(3, 'Vishal', 'vishal@gmail.com', '1234567890', 'Developer', '2020-01-19 08:00:09');
+(2, 'Nagarjun A', 'nagarjun2001avala1999@gmail.com', '8374017459', 'Developer', '2020-01-19 07:59:38');
 
 -- --------------------------------------------------------
 
@@ -146,7 +145,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `password`, `email`, `mobile`, `added_on`) VALUES
-(1, 'Vishal Gupta', '', 'vishal@gmail.com', '1234567890', '2020-01-14 00:00:00');
+(1, 'Vishal Gupta', '', 'demo@gmail.com', '1234567890', '2020-01-14 00:00:00');
 
 -- --------------------------------------------------------
 
