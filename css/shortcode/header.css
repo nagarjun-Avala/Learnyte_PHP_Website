@@ -49,14 +49,6 @@
   align-items: center;
 }
 
-
-
-
-
-
-
-
-
 /*---------------------------
   Header Two
 -----------------------------*/
@@ -72,50 +64,6 @@
 .offsetmenu{
   overflow-y: inherit !important;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*---------------------------
   Header three
@@ -134,8 +82,6 @@
 /*------------------------
   Header 5
 ---------------------------*/
-
-
 
 /* New Code */
 .off__canvars__wrap.right--side.width-half {
@@ -194,25 +140,6 @@ nav.off__canvars--menu ul li a:hover {
 nav.off__canvars--menu ul li ul li a:hover {
     color: #ddd;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*-----------------------
   Header One Search
@@ -277,8 +204,6 @@ nav.off__canvars--menu ul li ul li a:hover {
     top: 0;
     width: 2px;
 }
-
-
 
 /*-----------------------------------------
   Sticky  For  Header
@@ -376,9 +301,6 @@ nav.off__canvars--menu ul li ul li a:hover {
     margin: 0;
 }
 
-
-
-
 /*-------------------------------
   Mega Menu
 ---------------------------------*/
@@ -430,38 +352,12 @@ nav.off__canvars--menu ul li ul li a:hover {
   border-bottom: 1px solid transparent;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*---------------------------------
   cd-words-wrapper
 --------------------------------*/
 .theme-color .cd-words-wrapper {
   padding: 0px !important;
 }
-
-
-
 
 /*----------------------
   Header Top One
@@ -555,13 +451,6 @@ nav.off__canvars--menu ul li ul li a:hover {
 .language__option li {
     padding: 3px 0;
 }
-
-
-
-
-
-
-
 
 /*-----------------------------------------
   Header Search area
